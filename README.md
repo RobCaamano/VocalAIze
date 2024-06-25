@@ -22,15 +22,3 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-
 https://github.com/RobCaamano/VocalAIze/assets/65639885/eac02793-7546-4fc0-9668-e3e2a0731f62
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-ed7b7f65db9e
-
-## Landing Page
-![Landing Page](https://github.com/RobCaamano/VocalAIze/blob/main/imgs/Landing.png)
-
-## Sign In Page
-![Sign In Page](https://github.com/RobCaamano/VocalAIze/blob/main/imgs/Sign%20In.png)
-
-## About Page
-![About Page](https://github.com/RobCaamano/VocalAIze/blob/main/imgs/About.png)
-
-## Home Page
-![Home Page](https://github.com/RobCaamano/VocalAIze/blob/main/imgs/Home.png)

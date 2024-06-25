@@ -19,9 +19,9 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-
 
 ## Translation Demo
 
-[audio](https://github.com/RobCaamano/VocalAIze/assets/65639885/5ee47317-6732-4af9-bf55-9e5e58b7020c)
+https://github.com/RobCaamano/VocalAIze/assets/65639885/eac02793-7546-4fc0-9668-e3e2a0731f62
 
-https://github.com/RobCaamano/VocalAIze/assets/65639885/c7baca42-2114-4881-866e-885e1d502077
+https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-ed7b7f65db9e
 
 ## Landing Page
 ![Landing Page](https://github.com/RobCaamano/VocalAIze/blob/main/imgs/Landing.png)

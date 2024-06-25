@@ -19,7 +19,7 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-
 
 ## Translation Demo
 
-https://github.com/RobCaamano/VocalAIze/assets/65639885/5ee47317-6732-4af9-bf55-9e5e58b7020c
+[audio](https://github.com/RobCaamano/VocalAIze/assets/65639885/5ee47317-6732-4af9-bf55-9e5e58b7020c)
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/c7baca42-2114-4881-866e-885e1d502077
 

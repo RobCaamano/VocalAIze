@@ -8,11 +8,6 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 
 -Audio Management: Easily save and organize your audio recordings for language learning, professional communication, or personal organization. Keep all your voice notes, memos, and conversations in one convenient location for easy access and reference.
 
-## Frontend & Backend Repository Links
-[Frontend](https://github.com/SaminChowdhury/vocalaize-frontend)
-
-[Backend](https://github.com/SaminChowdhury/vocalaize-backend)
-
 ## WebApp Demo
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-82fe70267eea
@@ -22,3 +17,9 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-
 https://github.com/RobCaamano/VocalAIze/assets/65639885/eac02793-7546-4fc0-9668-e3e2a0731f62
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-ed7b7f65db9e
+
+## Frontend & Backend Repository Links
+
+[Frontend](https://github.com/SaminChowdhury/vocalaize-frontend)
+
+[Backend](https://github.com/SaminChowdhury/vocalaize-backend)

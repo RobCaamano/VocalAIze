@@ -13,12 +13,15 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 
 [Backend](https://github.com/SaminChowdhury/vocalaize-backend)
 
-## Walkthrough Demo
-
+## WebApp Demo
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-82fe70267eea
 
+## Translation Demo
 
+https://github.com/RobCaamano/VocalAIze/assets/65639885/5ee47317-6732-4af9-bf55-9e5e58b7020c
+
+https://github.com/RobCaamano/VocalAIze/assets/65639885/c7baca42-2114-4881-866e-885e1d502077
 
 ## Landing Page
 ![Landing Page](https://github.com/RobCaamano/VocalAIze/blob/main/imgs/Landing.png)

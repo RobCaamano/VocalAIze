@@ -32,7 +32,7 @@ Since VocalAIze is no longer being hosted, I've created a simple command line ve
 
 ### How to use:
 
-1. Prepare & download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+1. Download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 ```
 cd '[path to dir]'

@@ -1,6 +1,6 @@
 # VocalAIze
 
-### Sections
+## Sections
 
 - [About](#about)
 - [Demo](#demo)
@@ -8,7 +8,7 @@
 - [Links to Original Repos](#links)
 - [Coqui TOS](#tos)
 
-### About <a id="about"></a>
+## About <a id="about"></a>
 
 VocalAIze is a comprehensive web application that combines advanced voice cloning, translation, SMS/email integration, and audio management functionalities in one intuitive platform. Whether you're a language learner, a globetrotting traveler, or a busy professional, our app has something for everyone:
 
@@ -20,7 +20,7 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 
 **Please note that VocalAIze is no longer being hosted as a web application. It was solely funded by our team and is now available as a command line script. This script allows you to leverage the original voice cloning and translation technology independently, ensuring you can still benefit from our advanced features regardless of the web application’s status.**
 
-### Our Team
+## Our Team
 
 <p align="center">
   <a href="https://www.linkedin.com/in/robcaamano/" target="_blank"><img src="https://github.com/user-attachments/assets/23f0d62d-b759-4f53-9382-e0fdc83c4db4" width="190" height="200" /></a>
@@ -45,7 +45,7 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-
 
 Since VocalAIze is no longer being hosted, I've created a simple command line version with the original voice cloning and translation technology
 
-### How to use:
+## How to use:
 
 Before running the script, ensure you have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/). 
 
@@ -78,11 +78,11 @@ python ./translate.py
 
 The file will be opened upon completion and will be saved to the "saved" folder in the project directory.
 
-### Frontend & Backend Repository Links <a id="links"></a>
+## Frontend & Backend Repository Links <a id="links"></a>
 
 [Frontend](https://github.com/SaminChowdhury/vocalaize-frontend)
 
 [Backend](https://github.com/SaminChowdhury/vocalaize-backend)
 
-### Coqui Terms of Service <a id="tos"></a>
+## Coqui Terms of Service <a id="tos"></a>
 By using this project, you agree to the [Coqui Terms of Service](https://coqui.ai/cpml.txt).

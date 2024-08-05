@@ -30,7 +30,7 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-
 
 Since VocalAIze is no longer being hosted, I've created a simple command line version with the original voice cloning and translation technology
 
-How to use:
+### How to use:
 
 1. Open translation_cmd project directory
 

@@ -2,11 +2,11 @@
 
 ## Sections
 
-- [About](##-about)
-- [Demo](##-webapp-demo)
-- [Command Line Script Setup](##-using-cmd-translation-script)
+- [About](#about)
+- [Demo](#demo)
+- [Command Line Script Setup](#command-line-script-setup)
 
-## About
+## About <a id="about"></a>
 
 VocalAIze is a comprehensive web application that combines advanced voice cloning, translation, SMS/email integration, and audio management functionalities in one intuitive platform. Whether you're a language learner, a globetrotting traveler, or a busy professional, our app has something for everyone:
 
@@ -16,7 +16,7 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 
 -Audio Management: Easily save and organize your audio recordings for language learning, professional communication, or personal organization. Keep all your voice notes, memos, and conversations in one convenient location for easy access and reference.
 
-## WebApp Demo
+## WebApp Demo <a id="demo"></a>
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-82fe70267eea
 
@@ -26,7 +26,7 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/eac02793-7546-4fc0-9668-
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-ed7b7f65db9e
 
-## Using CMD Translation Script
+## Using CMD Translation Script <a id="command-line-script-setup"></a>
 
 Since VocalAIze is no longer being hosted, I've created a simple command line version with the original voice cloning and translation technology
 

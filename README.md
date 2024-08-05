@@ -27,7 +27,7 @@ How to use:
 1. Open translation_cmd project directory
 
 ```
-cd '[path to dir]'
+$ cd '[path to dir]'
 ```
 
 ## Frontend & Backend Repository Links

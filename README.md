@@ -82,4 +82,5 @@ The file will be opened upon completion and will be saved to the "saved" folder 
 [Backend](https://github.com/SaminChowdhury/vocalaize-backend)
 
 ## Coqui Terms of Service <a id="tos"></a>
+
 By using this project, you agree to the [Coqui Terms of Service](https://coqui.ai/cpml.txt).

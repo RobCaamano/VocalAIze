@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 3. Ensure you have a compatible GPU and CUDA installed. The script uses CUDA for acceleration, so you need to have a GPU with CUDA support and the appropriate CUDA toolkit installed. Follow the [CUDA installation guide](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html) for details.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note:** The time required for the script to complete depends on the computational power of your GPU.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note:** The time required for the script to complete depends on the computational power of your GPU.
 
 6. Run the script in your virtual environment
 

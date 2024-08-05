@@ -44,6 +44,18 @@ cd '[path to dir]'
 pip install -r requirements.txt
 ```
 
+3. Run the script in your virtual environment
+
+```
+python ./translate.py
+```
+
+4. Select desired input and target language
+
+5. Select input audio file from file explorer
+
+The file will be opened upon completion and will be saved to the "saved" folder in the project directory
+
 ## Frontend & Backend Repository Links
 
 [Frontend](https://github.com/SaminChowdhury/vocalaize-frontend)

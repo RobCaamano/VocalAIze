@@ -34,22 +34,25 @@ Since VocalAIze is no longer being hosted, I've created a simple command line ve
 
 Before running the script, ensure you have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/).
 
-1. Download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+1. Clone the repository to your local machine
+
+2. Download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 ```
+git clone https://github.com/RobCaamano/VocalAIze.git
 cd '[path to dir]'
 pip install -r requirements.txt
 ```
 
-2. Run the script in your virtual environment
+3. Run the script in your virtual environment
 
 ```
 python ./translate.py
 ```
 
-3. Select desired input and target language
+4. Follow the on-screen prompts to select languages
 
-4. Select input audio file from file explorer
+5. Select input audio file from file explorer
 
 The file will be opened upon completion and will be saved to the "saved" folder in the project directory
 

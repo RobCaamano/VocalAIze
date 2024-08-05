@@ -1,5 +1,13 @@
 # VocalAIze
 
+## Sections
+
+- About
+- Demo
+- Command Line Script Setup
+
+## About
+
 VocalAIze is a comprehensive web application that combines advanced voice cloning, translation, SMS/email integration, and audio management functionalities in one intuitive platform. Whether you're a language learner, a globetrotting traveler, or a busy professional, our app has something for everyone:
 
 -Voice Cloning and Translation: Instantly clone your voice and translate it into multiple languages with unparalleled accuracy. Break down language barriers and communicate effortlessly with friends, family, and colleagues around the world.

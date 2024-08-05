@@ -32,27 +32,22 @@ Since VocalAIze is no longer being hosted, I've created a simple command line ve
 
 ### How to use:
 
-1. Open translation_cmd project directory
+1. Prepare & download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 ```
 cd '[path to dir]'
-```
-
-2. Download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
-
-```
 pip install -r requirements.txt
 ```
 
-3. Run the script in your virtual environment
+2. Run the script in your virtual environment
 
 ```
 python ./translate.py
 ```
 
-4. Select desired input and target language
+3. Select desired input and target language
 
-5. Select input audio file from file explorer
+4. Select input audio file from file explorer
 
 The file will be opened upon completion and will be saved to the "saved" folder in the project directory
 

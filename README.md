@@ -63,7 +63,7 @@ python ./translate.py
 
 6. Select input audio file from file explorer
 
-The file will be opened upon completion and will be saved to the "saved" folder in the project directory
+The file will be opened upon completion and will be saved to the "saved" folder in the project directory.
 
 ## Frontend & Backend Repository Links
 

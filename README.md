@@ -30,10 +30,7 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 </p>
 
 <p align="center">
-  Rob Caamano
-  Samin
-  Zion
-  David
+  Rob Caamano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;David
 </p>
 
 ## WebApp Demo <a id="demo"></a>

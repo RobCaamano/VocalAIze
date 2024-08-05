@@ -18,6 +18,18 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/eac02793-7546-4fc0-9668-
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-ed7b7f65db9e
 
+## Using CMD Translation Script
+
+Since VocalAIze is no longer being hosted, I've created a simple command line version with the original voice cloning and translation technology
+
+How to use:
+
+1. Open translation_cmd project directory
+
+```
+cd '[path to dir]'
+```
+
 ## Frontend & Backend Repository Links
 
 [Frontend](https://github.com/SaminChowdhury/vocalaize-frontend)

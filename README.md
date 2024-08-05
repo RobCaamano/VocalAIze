@@ -2,9 +2,9 @@
 
 ## Sections
 
-- [About](##About)
-- [Demo](##WebApp-Demo)
-- [Command Line Script Setup](##Using-CMD-Translation-Script)
+- [About](##-About)
+- [Demo](##-WebApp-Demo)
+- [Command Line Script Setup](##-Using-CMD-Translation-Script)
 
 ## About
 

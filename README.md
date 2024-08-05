@@ -24,7 +24,7 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 
 | Rob Caamano    | Samin Chowdhury | Zion Bolognese | David Felix |
 | -------- | ------- | ------- | ------- |
-| https://github.com/user-attachments/assets/23f0d62d-b759-4f53-9382-e0fdc83c4db4 |     |    |     |
+| <img src="https://github.com/user-attachments/assets/23f0d62d-b759-4f53-9382-e0fdc83c4db4" width="190" height="200" /></a> |     |    |     |
 
 
 <p align="center">

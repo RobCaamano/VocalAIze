@@ -32,6 +32,8 @@ Since VocalAIze is no longer being hosted, I've created a simple command line ve
 
 ### How to use:
 
+Before running the script, ensure you have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/).
+
 1. Download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 ```

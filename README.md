@@ -34,7 +34,7 @@ Since VocalAIze is no longer being hosted, I've created a simple command line ve
 
 ### How to use:
 
-Before running the script, ensure you have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/).
+Before running the script, ensure you have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/). 
 
 1. Clone the repository to your local machine
 
@@ -42,22 +42,24 @@ Before running the script, ensure you have Python installed on your machine. You
 git clone https://github.com/RobCaamano/VocalAIze.git
 ```
 
-3. Download requirements.txt from the translation_cmd directory. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+2. Navigate to the project directory and download 'requirements.txt'. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 ```
 cd '[path to dir]'
 pip install -r requirements.txt
 ```
 
-3. Run the script in your virtual environment
+3. Ensure you have a compatible GPU and CUDA installed. The script uses CUDA for acceleration, so you need to have a GPU with CUDA support and the appropriate CUDA toolkit installed. Follow the CUDA installation guide for details.
+
+4. Run the script in your virtual environment
 
 ```
 python ./translate.py
 ```
 
-4. Follow the on-screen prompts to select languages
+5. Follow the on-screen prompts to select languages
 
-5. Select input audio file from file explorer
+6. Select input audio file from file explorer
 
 The file will be opened upon completion and will be saved to the "saved" folder in the project directory
 

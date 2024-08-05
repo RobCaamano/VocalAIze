@@ -18,6 +18,8 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 
 **Please note that VocalAIze is no longer being hosted as a web application. It was solely funded by our team and is now available as a command line script. This script allows you to leverage the original voice cloning and translation technology independently, ensuring you can still benefit from our advanced features regardless of the web application’s status.**
 
+### Our Team
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/23f0d62d-b759-4f53-9382-e0fdc83c4db4" width="210" height="220" />
   <img src="https://github.com/user-attachments/assets/2f3d2bd9-9584-46be-8eea-6efce8f30bcb" width="220" height="220" />

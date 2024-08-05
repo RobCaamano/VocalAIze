@@ -16,7 +16,7 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 
 -Audio Management: Easily save and organize your audio recordings for language learning, professional communication, or personal organization. Keep all your voice notes, memos, and conversations in one convenient location for easy access and reference.
 
-Please note that VocalAIze is no longer being hosted as a web application. It was solely funded by our team and is now available as a command line script. This script allows you to leverage the original voice cloning and translation technology independently, ensuring you can still benefit from our advanced features regardless of the web application’s status.
+**Please note that VocalAIze is no longer being hosted as a web application. It was solely funded by our team and is now available as a command line script. This script allows you to leverage the original voice cloning and translation technology independently, ensuring you can still benefit from our advanced features regardless of the web application’s status.**
 
 ## WebApp Demo <a id="demo"></a>
 

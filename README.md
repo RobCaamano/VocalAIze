@@ -29,6 +29,13 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
   <img src="https://github.com/user-attachments/assets/a8543ac1-227c-440d-9264-a03ed4dd3bfd" width="190" height="200" />
 </p>
 
+<p align="center">
+  Rob Caamano
+  Samin
+  Zion
+  David
+</p>
+
 ## WebApp Demo <a id="demo"></a>
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-82fe70267eea

@@ -25,16 +25,10 @@ https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-
 ## Translation Demo
 
 
-<p float="left">
-  <video width="45%" controls>
-    <source src="https://github.com/RobCaamano/VocalAIze/assets/65639885/eac02793-7546-4fc0-9668-e3e2a0731f62" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <video width="45%" controls>
-    <source src="https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-ed7b7f65db9e" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+| Video 1 | Video 2 |
+| ------- | ------- |
+| [Video 1](https://github.com/RobCaamano/VocalAIze/assets/65639885/eac02793-7546-4fc0-9668-e3e2a0731f62) | [Video 2](https://github.com/RobCaamano/VocalAIze/assets/65639885/206cd6a6-1a99-4fdf-b2ea-ed7b7f65db9e) |
+
 
 
 https://github.com/RobCaamano/VocalAIze/assets/65639885/eac02793-7546-4fc0-9668-e3e2a0731f62

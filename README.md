@@ -1,13 +1,14 @@
 # VocalAIze
 
-## Sections
+### Sections
 
 - [About](#about)
 - [Demo](#demo)
 - [Command Line Script Setup](#command-line-script-setup)
 - [Links to Original Repos](#links)
+- [Coqui TOS](#tos)
 
-## About <a id="about"></a>
+### About <a id="about"></a>
 
 VocalAIze is a comprehensive web application that combines advanced voice cloning, translation, SMS/email integration, and audio management functionalities in one intuitive platform. Whether you're a language learner, a globetrotting traveler, or a busy professional, our app has something for everyone:
 
@@ -77,8 +78,11 @@ python ./translate.py
 
 The file will be opened upon completion and will be saved to the "saved" folder in the project directory.
 
-## Frontend & Backend Repository Links <a id="links"></a>
+### Frontend & Backend Repository Links <a id="links"></a>
 
 [Frontend](https://github.com/SaminChowdhury/vocalaize-frontend)
 
 [Backend](https://github.com/SaminChowdhury/vocalaize-backend)
+
+### Coqui Terms of Service <a id="tos"></a>
+By using this project, you agree to the [Coqui Terms of Service](https://coqui.ai/cpml.txt).

@@ -5,6 +5,7 @@
 - [About](#about)
 - [Demo](#demo)
 - [Command Line Script Setup](#command-line-script-setup)
+- [Links to Original Repos](#links)
 
 ## About <a id="about"></a>
 
@@ -76,7 +77,7 @@ python ./translate.py
 
 The file will be opened upon completion and will be saved to the "saved" folder in the project directory.
 
-## Frontend & Backend Repository Links
+## Frontend & Backend Repository Links <a id="links"></a>
 
 [Frontend](https://github.com/SaminChowdhury/vocalaize-frontend)
 

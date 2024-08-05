@@ -40,7 +40,7 @@ Before running the script, ensure you have Python installed on your machine. You
 git clone https://github.com/RobCaamano/VocalAIze.git
 ```
 
-3. Download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+3. Download requirements.txt from the translation_cmd directory. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 ```
 cd '[path to dir]'

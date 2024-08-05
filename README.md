@@ -27,7 +27,13 @@ How to use:
 1. Open translation_cmd project directory
 
 ```
-$ cd '[path to dir]'
+cd '[path to dir]'
+```
+
+2. Download requirements.txt. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+
+```
+pip install -r requirements.txt
 ```
 
 ## Frontend & Backend Repository Links

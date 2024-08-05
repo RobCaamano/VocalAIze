@@ -28,8 +28,6 @@ VocalAIze is a comprehensive web application that combines advanced voice clonin
 
 ## WebApp Demo <a id="demo"></a>
 
-https://github.com/RobCaamano/VocalAIze/assets/65639885/087b27ff-a80e-4b21-9a0a-82fe70267eea
-
 https://github.com/user-attachments/assets/98b49ae0-0101-4686-9d38-a21df4430966
 
 ## Translation Demo
